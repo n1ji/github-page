@@ -6,12 +6,9 @@ html {
 }
 
 h1 {
-  color: lightcoral;
-  text-align: center;
-}
-
-p {
-  color:lightblue;
+  font-family: "Rock 3D";
+  font-size: 72pt;
+  color: white;
   text-align: center;
 }
 
@@ -21,8 +18,10 @@ div.photos {
   align-items: center;
   a:link, a:visited {
     background-color: #5BCEFA;
-    color: white;
-    padding: 13px 13px;
+    color: black;
+    padding: 13px 120px;
+    font-family: "Chakra Petch";
+    font-weight: bold;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -35,10 +34,12 @@ div.movies {
   align-items: center;
     a:link, a:visited {
     background-color: #F5A9B8;
-    color: white;
-    padding: 13px 13px;
+    color: black;
+    padding: 13px 148.9px;
     text-align: center;
     text-decoration: none;
+    font-family: "Chakra Petch";
+    font-weight: bold;
     display: inline-block;
   }
 }
@@ -49,10 +50,12 @@ div.white {
   align-items: center;
     a:link, a:visited {
     background-color: #ffffff;
-    color: white;
-    padding: 13px 13px;
+    color: black;
+    padding: 13px 143.6px;
     text-align: center;
     text-decoration: none;
+    font-family: "Chakra Petch";
+    font-weight: bold;
     display: inline-block;
   }
 }
