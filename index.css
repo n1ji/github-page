@@ -28,12 +28,27 @@ div.photos {
     display: inline-block;
   }
 }
+
 div.movies {
   display: flex;
   justify-content: center;
   align-items: center;
     a:link, a:visited {
     background-color: #F5A9B8;
+    color: white;
+    padding: 13px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+}
+
+div.white {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    a:link, a:visited {
+    background-color: #ffffff;
     color: white;
     padding: 13px 13px;
     text-align: center;
