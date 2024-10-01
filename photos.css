@@ -7,16 +7,16 @@ html {
 
 
 div.gallery {
-    border: 3px solid #ffbefb;
+    border: 3px solid #b890b5;
   }
   
   div.gallery:hover {
-    border: 3px solid #d3a3ff;
+    border: 3px solid #f8c1f4;
   }
   
   div.gallery img {
-    width: 100%;
-    height: auto;
+    width: auto;
+    max-height: 600px;
   }
   
   div.desc {
